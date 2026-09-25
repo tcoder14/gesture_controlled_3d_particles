@@ -23,8 +23,8 @@ Because this project accesses your webcam, most browsers require it to be served
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/tcoder14/gesture_controlled_3d_particles.git
+   cd <gesture_controlled_3d_particles>
    ```
 2. Serve the folder locally, for example with Python:
    ```bash
